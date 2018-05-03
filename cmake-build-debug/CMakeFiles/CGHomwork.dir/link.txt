@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/CGHomwork.dir/main.cpp.o  -o CGHomwork -lGL -lGLU -lglut 
